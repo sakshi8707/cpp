@@ -8,7 +8,8 @@ using namespace std;
         
 //     }
 // };
-           //optimal force approch
+
+//***optimal force approch***
 class Solution {
 public:
     void recursivePermute(vector<int>&nums,vector<int>&ds,vector<vector<int>>&ans,vector<int>&freq)
