@@ -4,6 +4,7 @@ using namespace std;
 //  Input : arr[] = {7, 3, 2, 4, 9, 12, 56} , m = 3 
 // Output: Minimum Difference is 2 
 // TIME COMPLEXITY = O(N*logN)
+// SC : o(1)
 
  int chocolateDistribution(vector<int> nums,int m)
  {
